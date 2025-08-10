@@ -1,0 +1,41 @@
+ManifestFileVersion: 0
+CRC: 2454968467
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9451c6b725989665af9f2066061524e9
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 0f2bcd7c50e988a976380b21e264bbbd
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a62f012377c1194e84f9fb20f8021c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4d8423e41235c4cbd7873666bf725c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d9b852a3bf836e841884cc5bce535c24, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Meshes/AssetBundles/Joe96Ram.prefab
+Dependencies: []
