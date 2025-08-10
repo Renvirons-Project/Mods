@@ -1,0 +1,39 @@
+ManifestFileVersion: 0
+CRC: 1592375159
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 6351c03c90baa18aa5f63d64d4a27531
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 5adca6b4756516de7b9e3fb2e5b2feaf
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6a62f012377c1194e84f9fb20f8021c0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4f4d8423e41235c4cbd7873666bf725c, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Core/Meshes/AssetBundles/dseries.prefab
+Dependencies: []
